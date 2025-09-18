@@ -6,7 +6,7 @@ The Enigma machine was a series of electro-mechanical rotor cipher machines deve
 ## Key Components
 The standard Enigma machine consisted of several key components:
 - **Keyboard:** Used to input plaintext.
-- **Rotor Mechanism:** A series of rotating wheels (rotors) that performed the substitution cipher. Most military Enigma machines had three to four rotors.
+- **Rotor Mechanism:** A series of rotating wheels (rotors) that performed the substitution cipher. Most military Enigma machines had three to four rotors, though some early models had fewer.
 - **Reflector (Umkehrwalze):** A unique feature that sent the electrical current back through the rotors by a different path, ensuring that a letter could never be encrypted to itself.
 - **Lampboard:** Displayed the encrypted (or decrypted) letter.
 - **Plugboard (Steckerbrett):** Allowed for additional letter pair swaps, significantly increasing the machine's security.
