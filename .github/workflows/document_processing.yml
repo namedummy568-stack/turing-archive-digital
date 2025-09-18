@@ -1,0 +1,14 @@
+name: Document Processing
+
+on: [push, pull_request]
+
+jobs:
+  document_processing:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Simulate document processing
+      run: |
+        echo "Processing documents..."
+        sleep 5
+        echo "Document processing complete."
